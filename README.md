@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+## Game of Thrones
+Game of Thrones revolves around nine noble families vying for control over the lands of Westeros, while an ancient enemy, the White Walkers, returns after being dormant for millennia. The story begins with King Robert Baratheon visiting Winterfell to ask Eddard Stark to become his Hand of the King, setting off a series of political intrigues and battles for power among the families. As the series progresses, various characters navigate alliances, betrayals, and the looming threat of the White Walkers, leading to a complex tapestry of conflict and survival in a harsh, medieval-inspired world.
